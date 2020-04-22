@@ -48,6 +48,7 @@ public class Lesson6_HWTasc1Test {
             public static Collection<int[][]> data() {
                 return Arrays.asList(new int[][][] {
                         {
+
                                 new int[]{7, 15, 32, 55, 4, 56, 8, 73, 99},
                                 new int[]{56, 8, 73, 99},
                         },
